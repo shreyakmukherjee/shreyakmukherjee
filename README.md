@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shreyak Mukherjee</h1>
-<h3 align="center">B.Tech Student | ML & Deep Learning Enthusiast | Full-Stack Developer | Exploring the Intersection of Code and AI</h3>
+
+<h3 align="center">
+  B.Tech Student | Full-Stack Developer | Exploring the Future of Machine Learning, AI, and Azure Cloud | Passionate About Building Scalable Solutions
+</h3>
+
+<div align="center">
+  <img src="https://github.com/shreyakmukherjee/shreyakmukherjee/blob/main/animated_developer.gif" alt="Animated Developer Illustration" style="width: 200px;"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakmukherjee" /> </p>
 
