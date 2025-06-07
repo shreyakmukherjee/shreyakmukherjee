@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shreyak Mukherjee</h1>
 
 <h3 align="center">
-  B.Tech Student | Full-Stack Developer | Exploring the Future of Machine Learning, AI, and Azure Cloud | Passionate About Building Scalable Solutions
+  B.Tech Student | 🤖 AI Explorer | 📊 ML & DL Enthusiast | 🧠 Computer Vision | 🖼️ Image Processing | ☁️ Cloud Certified (AZ-900) | 🎨 Professional Artist (Ankan Ratna) | 💻 Computer Science & Engineering Student | 🎓 BCREC'26
 </h3>
 
 <div align="center">
