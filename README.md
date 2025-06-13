@@ -122,7 +122,6 @@
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyakmukherjee&theme=radical" />
 
- [![Shreyak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyakmukherjee&theme=react-dark&bg_color=1a1b27&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
