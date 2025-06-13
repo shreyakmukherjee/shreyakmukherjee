@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shreyak Mukherjee</h1>
+<h1 align="center">Hello 👋, I'm Shreyak Mukherjee</h1>
 
 <h3 align="center">
   B.Tech Student | Full Stack Web Dev | PHP | 🤖 AI Explorer | 📊 ML & DL Enthusiast | 🧠 Computer Vision | 🖼️ Image Processing | ☁️ Cloud Certified (AZ-900) | 🎨 Professional Artist (Ankan Ratna) | 💻 Computer Science & Engineering Student | 🎓 BCREC'26
