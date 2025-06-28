@@ -114,10 +114,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shreyakmukherjee&show_icons=true&theme=radical" width="400px" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakmukherjee&layout=compact&theme=radical" width="400px" height="200px"/>
   <br><br>
+  
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=shreyakmukherjee&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyakmukherjee&theme=radical)
 
 
 
