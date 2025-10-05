@@ -133,6 +133,40 @@
 
 </div>
 
+---
+## 💼 Experience
+- **AI Intern @Infosys Springboard (Remote)** *(Aug 2025 – Sept 2025)*  
+  Contributed to AI/ML projects as part of Infosys Springboard initiative.  
+  Enhanced skills in Python, NLP, and deployment of ML models.  
+
+- **ML Intern @Ardent Computech** *(Jun 2025 – Jul 2025)*  
+  Developed "Brain Tumor Segmentation using Diffusion-Augmented Swin Transformer".  
+
+## 🏆 Achievements & Licenses & Certifications
+
+- Accepted and Presented **3 peer-reviewed research papers** (IEEE, Springer, ICAR-2024)
+  
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**
+  
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – Oracle (Sep 2025 – Sep 2027)  
+  *Skills:* Artificial Intelligence · OCI · Cloud Computing  
+
+- **Convolutional Neural Networks** – Coursera (DeepLearning.AI, Andrew Ng) (Aug 2025)  
+  *Skills:* Deep Learning · Python · CNN Architectures  
+
+- **PyTorch Bootcamp** – OpenCV University (Aug 2025)  
+  *Achievement:* Certificate of Excellence, 100% grade (signed by Dr. Satya Mallick & Dr. Gary Bradski)  
+
+- **Industrial Training & Internship** – Ardent Computech Pvt. Ltd. (Jul 2025)  
+  *Focus:* Brain Tumor Segmentation with Diffusion-Augmented Swin Transformer, ML/DL, Image Processing  
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** – Microsoft (Apr 2025)  
+  *Skills:* Microsoft Azure · Cloud Computing  
+
+- **Mastering Data Structures & Algorithms using C and C++** – Udemy (May 2024)  
+  *Skills:* C · C++ · Data Structures & Algorithms  
+
+
 
 ---
 
